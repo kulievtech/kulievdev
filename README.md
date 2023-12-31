@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **MERN**
 
-- 📫 How to reach me **kuliev.tech@gmail.com**
+- 📫 How to reach me: **kuliev.tech@gmail.com**
 
 - ⚡ Fun fact: **I speak 4 languages**
 
