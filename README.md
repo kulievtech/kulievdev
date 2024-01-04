@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/kulievtech" target="blank"><img src="https://img.shields.io/twitter/follow/kulievtech?logo=twitter&style=for-the-badge" alt="kulievtech" /></a> </p>
 
-- 🔭 I’m currently working on **projectify-app**
+- 🔭 I’m currently working on [Projectify App](https://github.com/kulievtech/projectify-app-ui)
 
 - 🌱 I’m currently learning **Tailwind CSS and Typescript**
 
