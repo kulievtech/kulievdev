@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Projectify App](https://github.com/kulievtech/projectify-app-ui)
 
-- 🌱 I’m currently learning **Tailwind CSS and Typescript**
+- 🌱 I’m currently learning **Typescript**
 
 - 💬 Ask me about **MERN**
 
