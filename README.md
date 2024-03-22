@@ -7,4 +7,5 @@
 - 🔭 I’m currently working on [Projectify App](https://github.com/kulievtech/projectify-app-ui)
 - 🌱 I’m currently learning **Typescript**
 - ⚡ Fun fact: **I speak 4 languages**
+- 👨‍💻 Feel free to checkout my [portfolio](https://www.kuliev.dev/) website! 
 - 📫 Reach out to me: kulievdev@gmail.com
