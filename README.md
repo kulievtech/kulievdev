@@ -4,7 +4,7 @@
 - 🏢 Software Engineer (Full Stack) based in New York City
 - 🧰 I build with: `JavaScript`, `Node.js`, `Typescript`, `Prisma`, `MongoDB`, `Postman`,  `Express.js`, `React`, `Tailwind` ...
 - ⚡ I enjoy photography, reading, playing soccer, and lifting weights :)
-- 🔭 I’m currently working on [Projectify App](https://github.com/kulievtech/projectify-app-ui)
+- 🔭 I’m currently working on [Projectify App](https://projectify.tech/)
 - 🌱 I’m currently learning **Typescript**
 - 💬 Fun fact: **I speak 4 languages**
 - 👨‍💻 Feel free to checkout my [portfolio](https://www.kuliev.dev/) website! 
