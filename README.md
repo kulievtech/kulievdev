@@ -1,4 +1,4 @@
 - 🏢 Based in New York City
-- ⚡ I enjoy photography, reading, playing soccer, and lifting weights :)
+- ⚡ I enjoy traveling, photography, reading, playing soccer, and lifting weights :)
 - 🌱 I’m currently learning **Web Development** on the side.
 - 💬 Fun fact: **I speak 4 languages**
